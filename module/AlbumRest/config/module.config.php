@@ -17,7 +17,6 @@ return array(
                     ),
                     'defaults' => array(
                         'controller' => 'AlbumRest\Controller\AlbumRest',
-                        //'action'     => 'getList',
                     ),
                 ),
             ),
